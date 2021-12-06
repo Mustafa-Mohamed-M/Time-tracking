@@ -1,2 +1,2 @@
 # Time-tracking
-Front end challenge: time tracking app
+Practice on user interface design using the time-tracking challenge
